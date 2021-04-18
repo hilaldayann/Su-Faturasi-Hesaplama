@@ -1,0 +1,10 @@
+C:\Users\Hilal\source\repos\Su Faturası Hesaplama\Su Faturası Hesaplama\bin\Debug\Su Faturası Hesaplama.exe.config
+C:\Users\Hilal\source\repos\Su Faturası Hesaplama\Su Faturası Hesaplama\bin\Debug\Su Faturası Hesaplama.exe
+C:\Users\Hilal\source\repos\Su Faturası Hesaplama\Su Faturası Hesaplama\bin\Debug\Su Faturası Hesaplama.pdb
+C:\Users\Hilal\source\repos\Su Faturası Hesaplama\Su Faturası Hesaplama\obj\Debug\Su Faturası Hesaplama.csprojAssemblyReference.cache
+C:\Users\Hilal\source\repos\Su Faturası Hesaplama\Su Faturası Hesaplama\obj\Debug\Su_Faturası_Hesaplama.Form1.resources
+C:\Users\Hilal\source\repos\Su Faturası Hesaplama\Su Faturası Hesaplama\obj\Debug\Su_Faturası_Hesaplama.Properties.Resources.resources
+C:\Users\Hilal\source\repos\Su Faturası Hesaplama\Su Faturası Hesaplama\obj\Debug\Su Faturası Hesaplama.csproj.GenerateResource.cache
+C:\Users\Hilal\source\repos\Su Faturası Hesaplama\Su Faturası Hesaplama\obj\Debug\Su Faturası Hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\Hilal\source\repos\Su Faturası Hesaplama\Su Faturası Hesaplama\obj\Debug\Su Faturası Hesaplama.exe
+C:\Users\Hilal\source\repos\Su Faturası Hesaplama\Su Faturası Hesaplama\obj\Debug\Su Faturası Hesaplama.pdb
